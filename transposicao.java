@@ -1,11 +1,10 @@
 package criptografia;
 import java.util.Scanner;
-/**
+/*
+
  * ENGENHARIA DA COMPUTAÇÃO - FAINOR
- *
-    
- * 
- */
+*/
+
 /*
 * Author:  Igor Vinicius Freitas de Souza
 * GitHub: https://github.com/igor1043
