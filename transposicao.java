@@ -1,8 +1,7 @@
 package criptografia;
 import java.util.Scanner;
 /*
-
- * ENGENHARIA DA COMPUTAÇÃO - FAINOR
+ENGENHARIA DA COMPUTAÇÃO - FAINOR
 */
 
 /*
