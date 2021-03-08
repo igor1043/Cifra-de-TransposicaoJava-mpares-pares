@@ -6,6 +6,11 @@ import java.util.Scanner;
     
  * 
  */
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 public class transposicao {
 
     public static void main(String[] args) {
